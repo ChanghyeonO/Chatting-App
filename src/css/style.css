@@ -61,6 +61,7 @@ body {
   background: #ffeb33;
   border: none;
   height: 100%;
+  cursor: pointer;
   border-radius: 5px;
 }
 
